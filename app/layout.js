@@ -9,10 +9,10 @@ import './css/globals.scss';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'devDhiraj12 | Cloud Engineer',
-  description: 'This is the portfolio of Diraj Dagabaj. I am a Cloud Engineer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
+  title:'devDhiraj12 | DevOps Engineer',
+  description: 'This is the portfolio of Diraj Dagabaj. I am a DevOps Engineer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
 };
-
+SSSSSSS
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
