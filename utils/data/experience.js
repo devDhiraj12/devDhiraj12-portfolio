@@ -7,13 +7,13 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "Cloud Engineer (Intern)",
+    title: "DevOps Engineer (Intern)",
     company: "Quickinfra Cloud Solutions",
     duration: "(dec 2022 - May 2023)"
   },
   {
     id: 3,
-    title: "Cloud Engineer",
+    title: "DevOps Engineer",
     company: "Quickinfra Cloud Solutions",
     duration: "(May 2023 - Present)"
   }
