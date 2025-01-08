@@ -2,9 +2,9 @@ export const personalData = {
   name: "Dhiraj",
   logo: "/logo-white.png",
   profile: "/profile.png",
-  designation: "Devops Engineer",
+  designation: "Software Engineer",
   description:
-    "My name is Dhiraj Dagabaj. I am a DevOps Engineer with a passion for automation and streamlining software delivery lifecycles. Proven ability to learn new technologies quickly and apply them to improve efficiency and reliability. Strong problem-solving skills and a collaborative approach to working with development teams. Eager to contribute to a fast-paced environment and leverage expertise in Terraform and Ansible to build and maintain high-performing infrastructure.",
+    "My name is Dhiraj Dagabaj. I am a Software Engineer with a passion for automation and streamlining software delivery lifecycles. Proven ability to learn new technologies quickly and apply them to improve efficiency and reliability. Strong problem-solving skills and a collaborative approach to working with development teams. Eager to contribute to a fast-paced environment and leverage expertise in Terraform and Ansible to build and maintain high-performing infrastructure.",
   email: "dhirajdagabaj0412@gmail.com",
   phone: "+91 9096940153",
   address: "Kharadi pune 14",
