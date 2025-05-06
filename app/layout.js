@@ -11,8 +11,8 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 
 
 export const metadata = {
-  title: 'devDhiraj12 | DevOps Engineer',
-  description: 'This is the portfolio of Dhiraj Dagabaj. I am a DevOps Engineer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
+  title: 'devDhiraj12 | Software Engineer',
+  description: 'This is the portfolio of Dhiraj Dagabaj. I am a Software Engineer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.',
 };
 
 export default function RootLayout({ children }) {

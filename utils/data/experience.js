@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "DevOps Engineer (Intern)",
+    title: "Software Engineer (Intern)",
     company: "Quickinfra Cloud Solutions",
     duration: "(dec 2022 - May 2023)"
   },

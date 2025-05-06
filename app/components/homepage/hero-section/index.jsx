@@ -53,13 +53,13 @@ function HeroSection() {
             >
               <FaFacebook size={30} />
             </Link> */}
-            {/* <Link
+            <Link
               href={personalData.leetcode}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
               <SiLeetcode size={30} />
-            </Link> */}
+            </Link>
             <Link
               href={personalData.twitter}
               target='_blank'
@@ -117,6 +117,14 @@ function HeroSection() {
                 <span className="text-amber-300">AWS Cloud</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Java</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Spring Boot</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Javascript</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">React JS</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Next JS</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>

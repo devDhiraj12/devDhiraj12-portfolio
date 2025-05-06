@@ -20,7 +20,7 @@ export const projectsData = [
       "PM2",
       "Nginx",
     ],
-    role: "DevOps Engineer",
+    role: "Software Engineer",
     code: "",
     demo: "",
     image: crefin,
@@ -41,7 +41,7 @@ export const projectsData = [
       "AWS S3",
       "Nginx",
     ],
-    role: "DevOps Engineer",
+    role: "Software Engineer",
     code: "",
     demo: "",
     image: travel,
@@ -49,7 +49,7 @@ export const projectsData = [
   {
     id: 3,
     name: "Terraform-Ansible-Deployment",
-    description:"Terraform and Ansible are two popular tools used together in DevOps workflows to automate infrastructure provisioning and configuration management. Here's a breakdown of each tool and how they work together for deployments.  Terraform provisions the infrastructure based on your defined configuration, creating the necessary resources in the cloud or on-premises environment. Ansible playbooks are used to configure the provisioned servers with the required software, packages, and settings.",
+    description:"Terraform and Ansible are two popular tools used together in Software workflows to automate infrastructure provisioning and configuration management. Here's a breakdown of each tool and how they work together for deployments.  Terraform provisions the infrastructure based on your defined configuration, creating the necessary resources in the cloud or on-premises environment. Ansible playbooks are used to configure the provisioned servers with the required software, packages, and settings.",
     tools: [
       "Terraform",
       "ansible",
@@ -61,7 +61,7 @@ export const projectsData = [
      
     ],
     code: "",
-    role: "DevOps Engineer",
+    role: "Software Engineer",
     demo: "",
     image: realEstate,
   },
